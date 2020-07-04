@@ -1,6 +1,5 @@
 /* ================================================================
- * El archivo "Book"  fue creado para Y.P.F.B. Corporación, todos los Derechos reservados 
- * Desarrollador: Renato Apaza Tito (rapaza@ypfb.gob.bo)
+ * Desarrollador: Renato Apaza Tito (renato.apaza@outlook.com)
  * Fecha: 4/7/20 00:04
  * ==============================================================
  */
